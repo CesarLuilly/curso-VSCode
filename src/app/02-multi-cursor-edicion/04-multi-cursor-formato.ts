@@ -6,6 +6,12 @@
     Tips:
         ⇧ ⌥ ↑ / ↓
         Ctrl + Alt+ ↑ / ↓
+
+        (Cesar)
+        Como hacerlo??
+        Para esto nos posicionamos en hulk, hacemos espaciadora  para que el igual
+        quede en el lugar del igual de la variable de abajo y creo multicursores
+        para ir movidendo varias a la ves.
 */
 
 const hulk = 'brouce banner';

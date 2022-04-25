@@ -16,6 +16,9 @@
         Mostrar la paleta de comandos
         ⇧ ⌘ P, F1
         Ctrl + Shift + P, F1
+
+    (Cesar)
+    Solucion. Creamos multiples cursores al inicio de la cadena.
 */
 
 function capitalizados() {
