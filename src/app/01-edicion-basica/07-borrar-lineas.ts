@@ -10,6 +10,11 @@
         Seleccionar todas las ocurrencias de la selección
         ⇧ ⌘ L
         Ctrl + Shift + L
+
+    (Cesar) Posicionamos el cursor encima de la variable.
+    Presionamos
+        Ctrl + Shiph + l    y despues
+        Ctrl + Ship + k
 */
 
 let NoMeBorres = ':)';
