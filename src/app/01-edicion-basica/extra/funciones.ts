@@ -37,6 +37,7 @@ export function saludar9( nombre: string ) {
     return `Yo no hago nada!!!`;
 }
 
+// TODO: Esta funcion debe retornar un string.
 export function saludar10( nombre: string ) {
     return `Yo no hago nada!!!`;
 }
